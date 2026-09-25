@@ -17,13 +17,12 @@ V — o pluralismo político.
 
 **Parágrafo único.** Todo o poder emana do povo, que o exerce por meio de representantes eleitos ou diretamente, nos termos desta Constituição.
 
----
+
 
 ### Art. 2º
 
 São Poderes da União, independentes e harmônicos entre si, o **Legislativo, o Executivo e o Judiciário**.
 
----
 
 ### Art. 3º
 
@@ -37,7 +36,7 @@ III — erradicar a pobreza e a marginalização e reduzir as desigualdades soci
 
 IV — promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação.
 
----
+
 
 ### Art. 4º
 
